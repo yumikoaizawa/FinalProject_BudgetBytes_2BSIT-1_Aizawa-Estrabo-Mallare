@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".AdminProfile">
+
+    <ImageView
+        android:id="@+id/adminprofileicon"
+        android:layout_width="209dp"
+        android:layout_height="194dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/user_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.139" />
+
+    <TextView
+        android:id="@+id/profile_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/font1"
+        android:text="@string/profile_txt"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.399" />
+
+    <Button
+        android:id="@+id/aboutus_btn"
+        android:layout_width="207dp"
+        android:layout_height="75dp"
+        android:backgroundTint="#9FFF8800"
+        android:shadowColor="@android:color/holo_orange_dark"
+        android:text="@string/aboutus_btn"
+        android:textColor="@color/black"
+        android:textColorHint="#040303"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.651"
+        app:rippleColor="@android:color/holo_orange_dark"
+        app:strokeColor="@android:color/holo_orange_dark" />
+
+    <Button
+        android:id="@+id/logout_btn"
+        android:layout_width="207dp"
+        android:layout_height="75dp"
+        android:text="@string/logout_btn"
+        android:backgroundTint="#9FFF8800"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:shadowColor="@android:color/holo_orange_dark"
+        app:rippleColor="@android:color/holo_orange_dark"
+        app:strokeColor="@android:color/holo_orange_dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.763" />
+</androidx.constraintlayout.widget.ConstraintLayout>

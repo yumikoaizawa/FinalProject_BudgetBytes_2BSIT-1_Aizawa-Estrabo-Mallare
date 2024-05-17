@@ -1,0 +1,369 @@
+<resources>
+    <string name="app_name">Budget Bytes</string>
+    <string name="login_text">Login</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="forgot_text">Forgot Password</string>
+    <string name="newpass_text">New Password</string>
+    <string name="enter_text">Enter Email</string>
+    <string name="email_text">Email</string>
+    <string name="aboutus_btn">About Us</string>
+    <string name="logout_btn">Logout</string>
+    <string name="profile_txt">Admin Profile</string>
+
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_founders">Creators</string>
+    <string name="about_us_info">
+    Welcome to Budget Bytes, your go-to destination for delicious, nutritious, and affordable recipes designed especially for students and anyone else looking to stretch their budget without sacrificing flavor or quality.\n
+    Budget Bytes understands the challenges of managing a tight budget while still wanting to enjoy tasty meals.
+    That\'s why we\'re here to help you whip up mouthwatering dishes without breaking the bank. \nOur mission is simple: to empower you to eat well, save money, and have fun in the kitchen.\n
+    \n What Sets Us Apart: \n
+    \n- Budget-Friendly Recipes: Our recipes are thoughtfully crafted to maximize flavor while minimizing cost. We believe that eating on a budget shouldn\'t mean compromising on taste or nutrition.\n
+    \n- Easy-to-Follow Instructions: Whether you\'re a seasoned chef or a beginner in the kitchen, our recipes come with step-by-step instructions and helpful tips to ensure your cooking experience is smooth and stress-free.\n
+    \n- Nutritionally balanced: Eating well is essential for overall health and well-being. That\'s why our recipes are designed to be nutritious, using wholesome ingredients to fuel your body and mind.\n
+    \n- Variety for Every Palate: From hearty one-pot meals and flavorful vegetarian dishes to quick and easy snacks and indulgent desserts, we\'ve got something for every taste and craving.\n
+   \nOur Team:\n
+\nBehind Budget Bytes is a team of passionate food lovers, recipe developers, and budget-conscious individuals dedicated to bringing you the best culinary experience without breaking the bank. We\'re constantly experimenting with new flavors, ingredients, and cooking techniques to inspire you to get creative in the kitchen.
+\nThank you for choosing Budget Bytes as your trusted source for affordable and delicious meals. Let\'s cook, eat, and save together!
+</string>
+
+    <string name="admin1">Franc Peter Joshias Estrabo</string>
+    <string name="admin2">Thea Anne Mae Mallare</string>
+    <string name="admin3">Yumiko Aizawa</string>
+
+    <string name="description">What\'s on for today Ka-Budgets?</string>
+    <string name="bfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="snacks">Snacks</string>
+
+        <string name="food_text1">Egg Fried Rice</string>
+        <string name="food_text2">Corned Beef with Corn</string>
+        <string name="food_text3">Scrambled Egg with Tomatoes</string>
+        <string name="food_text4">Tinapa Fried Rice</string>
+        <string name="food_text5">Malunggay Soup</string>
+        <string name="food_text6">Stir Fry Tofu</string>
+        <string name="food_text7">Tortang Talong</string>
+        <string name="food_text8">Tuna Sisig</string>
+        <string name="food_text9">Tuna Pasta</string>
+        <string name="food_text10">Crab and Corn Soup</string>
+        <string name="food_text11">Ginisang Repolyo</string>
+        <string name="food_text12">Ginisang Sardinas</string>
+        <string name="food_text13">French Toast</string>
+        <string name="food_text14">Graham Balls</string>
+        <string name="food_text15">Potato Fritters</string>
+        <string name="food_text16">Turon</string>
+        <string name="recipe_btn">Recipe</string>
+
+    <string name="ingredients">INGREDIENTS</string>
+    <string name="instructions">INSTRUCTIONS</string>
+
+    <string name="snack_ingredients1">
+        2 packs crushed graham crackers\n
+        1 can sweetened condensed milk\n
+        1bag marshmallows
+    </string>
+
+    <string name="snack_instructions1">1. In a bowl, combine 1½ packs of crushed graham crackers with condensed milk; mix well. Adjust sweetness to taste. Set aside the remaining half-pack of crushed graham crackers to use later.\n
+    2. Put a small amount of the mixture in your hand and flatten it a little bit with your fingers. Add a piece of marshmallow to the center.\n
+    3. Close the dough by forming a small ball with your fingertips.\n
+    4. Roll the graham balls in the remaining crushed graham crackers or in powdered milk. You can also roll them in dried coconut or chocolate sprinkles to make them look more appetizing.\n
+    5. Set in the refrigerator to cool for 10 minutes.
+    </string>
+    <string name="snack_ingredients2">
+        2 large potatoes, peeled and grated\n
+        1 small onion, finely chopped\n
+        1 egg, beaten\n
+        2 tablespoons all-purpose flour\n
+        Salt and pepper to taste\n
+        Cooking oil for frying
+    </string>
+
+    <string name="snack_instructions2">1. In a bowl, combine the grated potatoes, chopped onion, beaten egg, flour, salt, and pepper. Mix well until all ingredients are evenly combined.\n
+    2. Take a spoonful of the potato mixture and carefully drop it into the hot oil, shaping it into a small fritter with the back of the spoon. Repeat to make more fritters, making sure not to overcrowd the pan.\n
+    3. Fry the potato fritters until golden brown and crispy on both sides, about 2-3 minutes per side.\n
+    4. Once cooked, remove the fritters from the pan and drain on paper towels to remove excess oil.\n
+    5. Serve hot as a delicious and budget-friendly Filipino snack.
+</string>
+
+    <string name="snack_ingredients3">
+        1 Ripe bananas, peeled and sliced lengthwise into halves or quarters\n
+        1tbs Brown sugar\n
+        1Spring roll wrappers (also known as lumpia wrappers)\n
+        Cooking oil for frying
+    </string>
+
+    <string name="snack_instructions3">1. Lay out a spring roll wrapper on a flat surface, with one corner pointing towards you (diamond shape).\n
+    2. Place a slice of banana on the wrapper, slightly above the bottom corner.\n
+    3. Sprinkle brown sugar over the banana slice.\n
+    4. Fold the bottom corner of the wrapper over the banana slice and tuck it under.\n
+    5. Fold the left and right corners of the wrapper towards the center.\n
+    6. Moisten the top corner of the wrapper with a bit of water, then roll up the wrapper tightly to seal the turon.\n
+    7. Repeat the process with the remaining bananas and wrappers.\n
+    8. Heat cooking oil in a frying pan over medium heat.\n
+    9. Once the oil is hot, carefully add the turon to the pan, seam side down.\n
+    10. Fry the turon until golden brown and crispy, turning occasionally to ensure even cooking.\n
+    11. Once cooked, remove the turon from the pan and drain on paper towels to remove excess oil.\n
+    12. Serve hot and enjoy your delicious homemade turon!
+</string>
+
+    <string name="snack_ingredients4">
+    4 slices of bread (use slightly stale bread for best results)\n
+    2 large eggs\n
+    1/4 cup milk\n
+    Butter or cooking oil for frying (optional)
+    </string>
+
+    <string name="snack_instructions4">
+        1. In a shallow dish, whisk together the eggs and milk until well combined.\n
+        2. This mixture will be your French toast batter.\n
+        3. Heat a skillet or frying pan over medium heat. If desired, add a little butter or cooking oil to grease the pan.\n
+        4. Dip each slice of bread into the egg mixture, making sure to coat both sides evenly. Allow excess batter to drip off.\n
+        5. Place the dipped bread slices onto the heated skillet or frying pan. Cook for 2-3 minutes on each side, or until golden brown.\n
+        6. Once cooked, transfer the French toast to a plate. Repeat the dipping and cooking process with the remaining bread slices.\n
+        7. Serve the French toast hot with your favorite toppings, such as maple syrup, powdered sugar, fresh fruit, or whipped cream.
+    </string>
+
+    <string name="bfast_ingredients1">
+    Cooked rice (preferably day-old rice)\n
+    2 pieces of tinapa (smoked fish), flaked\n
+    3 cloves garlic, minced\n
+    Cooking oil\n
+    Salt and pepper to taste\n
+    Optional: chopped green onions or tomatoes for garnish
+    </string>
+
+    <string name="bfast_instructions1">1. Heat a small amount of cooking oil in a pan or skillet over medium heat.\n
+    2. Add the minced garlic to the pan and sauté until golden brown and fragrant.\n
+    3. Add the flaked tinapa to the pan and stir-fry for a few minutes to warm it up.\n
+    4. Add the cooked rice to the pan. Break up any clumps and stir to combine with the garlic and tinapa.\n
+    5. Cook the rice, stirring occasionally, until it is heated through and slightly crispy.\n
+    6. Season the rice with salt and pepper to taste. Stir well to distribute the seasoning evenly.\n
+    7. Once the rice is cooked to your liking, remove the pan from the heat.\n
+    8. Optional: Garnish with chopped green onions or tomatoes for added flavor and color.\n
+    9. Serve hot as a main breakfast dish or as a side to complement other breakfast items.
+    </string>
+
+    <string name="bfast_ingredients2">
+    2 eggs\n
+    1 tomato, diced\n
+    1 small onion, chopped\n
+    Salt and pepper to taste\n
+    Cooking oil
+    </string>
+
+    <string name="bfast_instructions2">1.Heat a small amount of cooking oil in a skillet over medium heat.\n
+    2.Add the chopped onion to the skillet and sauté until translucent.\n
+    3.Add the diced tomatoes to the skillet and cook for a few minutes until softened.\n
+    4.In a bowl, beat the eggs and season with salt and pepper to taste.\n
+    5.Pour the beaten eggs into the skillet with the tomatoes and onions.\n
+    6.Cook the eggs, stirring occasionally, until they are set but still moist.\n
+    7.Once the eggs are cooked to your liking, remove the skillet from the heat.\n
+    8.Serve the scrambled eggs with tomatoes hot with rice or bread.
+    </string>
+
+    <string name="bfast_ingredients3">
+    1 can corned beef\n
+    1 cup canned corn kernels, drained\n
+    1 small onion, chopped\n
+    2 cloves garlic, minced\n
+    Cooking oil\n
+    Salt and pepper to taste\n
+    Cooked rice, for serving
+    </string>
+
+    <string name="bfast_instructions3">1. Heat a small amount of cooking oil in a pan over medium heat.\n
+    2. Add the chopped onion and minced garlic to the pan. Sauté until the onion is translucent and the garlic is fragrant.\n
+    3. Add the canned corn kernels to the pan and cook for a few minutes until heated through.\n
+    4. Add the corned beef to the pan. Break it apart with a spoon and mix well with the corn and onions.\n
+    5. Cook the mixture for about 5-7 minutes, stirring occasionally, until heated through and slightly browned.\n
+    6. Season with salt and pepper to taste.\n
+    7. Serve hot with steamed rice.
+    </string>
+
+    <string name="bfast_ingredients4">
+    2 cups cooked rice (preferably day-old rice, as it fries better)\n
+    2 eggs\n
+    1 cup frozen mixed vegetables (such as peas, carrots, and corn)\n
+    Soy sauce, to taste (optional)\n
+    Salt and pepper, to taste (optional)\n
+    Cooking oil
+    </string>
+
+    <string name="bfast_instructions4">
+    1. Heat a large skillet or wok over medium-high heat. Add a little cooking oil to the pan.\n
+    2. Once the oil is hot, add the frozen mixed vegetables to the skillet. Stir-fry them for a few minutes until they are heated through and slightly softened.\n
+    3. Push the vegetables to one side of the skillet and crack the eggs into the empty space. Scramble the eggs until they are cooked through.\n
+    4. Add the cooked rice to the skillet, breaking up any clumps with a spatula. Stir-fry the rice with the vegetables and eggs until everything is well combined and the rice is heated through.\n
+    5. If desired, season the fried rice with soy sauce, salt, and pepper to taste. Be cautious with the soy sauce as it can make the rice too salty if added in large amounts.\n
+    6. Continue to stir-fry the rice for another 2-3 minutes, allowing the flavors to meld together.\n
+    7. Once the fried rice is heated through and well seasoned, remove it from the heat and serve hot.
+
+    </string>
+
+    <string name="lunch_ingredients1">
+    1 eggplant\n
+    1 egg\n
+    1/4 teaspoon salt\n
+    1/8 teaspoon ground black pepper\n
+    1/4 cup cooking oil
+    </string>
+
+    <string name="lunch_instructions1">
+    1. Heat the eggplant directly over fire in a stovetop until the skin of the eggplant turns brown to black, Rotate after a few minutes until all parts of are almost burnt.\n
+    2. Let the eggplant cooldown and then peel the skin off using your fingers. The inside part of the eggplant should be steamed just right at this point.\n
+    3. Arrange the peeled eggplant in a plate and then flatten using a fork. Set aside.\n
+    4. Beat the egg in a bowl and add salt and pepper. Continue beating until the salt and pepper are well blended.\n
+    5. Dip the eggplant in the egg mixture.\n
+    6. Heat oil in a pan. Once the oil gets hot, start to fry one side of the eggplant until it gets medium brown.\n
+    7. Pour the remaining egg mixture on top of the eggplant. Turn it over and fry the other side until it gets light to medium brown.\n
+    8. Remove from the pan and arrange in a wide plate. Serve with banana ketchup.\n
+    9. Share and enjoy!
+    </string>
+
+    <string name="lunch_ingredients2">1 can tuna in brine (about 200g), drained\n
+    1 small onion, diced\n
+    1 garlic clove, minced\n
+    1 tablespoon vinegar\n
+    ½ tablespoon soy sauce\n
+    ½ tablespoon calamansi juice or lime juice\n
+    Salt and pepper to taste\n
+    Pinch of cayenne pepper or chili flakes (optional, adjust according to your preference)\n
+    1 tablespoon mayonnaise\n
+    1 large egg\n
+    1 tablespoon cooking oil
+    </string>
+
+    <string name="lunch_instructions2">
+    1. In a medium pan, sauté onion and garlic in 1 tablespoon oil (of your choice, I use coconut oil.)\n
+    2. Once the onion is softened, add tuna, vinegar, soy sauce, lime or calamansi juice, Maggi or Knorr, salt, pepper and chilies (if using). Mix well and fry until the tuna dry and crunchy.\n
+    3. Add mayonnaise and mix well.\n
+    4. If sisig seems too dry for your liking, add a teaspoon of oil.\n
+    5. Taste for seasoning.\n
+    6. Turn off heat and make a well in the middle of the tuna.\n
+    7. Crack an egg in the middle and mix well. Residual heat should cook it.\n
+    8. Serve with rice and enjoy!
+    </string>
+
+    <string name="lunch_ingredients3">
+    2 cups malunggay leaves\n
+    water\n
+    onion\n
+    2 eggs\n
+    knorr chicken cube\n
+    salt
+    </string>
+
+    <string name="lunch_instructions3">1. In a pot, bring 2-3 cups of water to a boil.\n
+    2. Add the chopped onion and Knorr chicken cube to the boiling water for seasoning.\n
+    3. Once the water is boiling, carefully add the malunggay leaves.\n
+    4. Crack the eggs and gently add them to the pot, one at a time.\n
+    5. Allow the eggs to cook in the boiling water until they reach your desired level of doneness. For soft-boiled eggs, cook for about 4-5 minutes; for hard-boiled eggs, cook for about 7-8 minutes.\n
+    6. Season with salt to taste.\n
+    7. Once the eggs are cooked to your liking, turn off the heat.\n
+    8. Serve the malunggay soup hot and enjoy!
+    </string>
+
+    <string name="lunch_ingredients4">
+   1 block of firm tofu (about 14 oz)\n
+   2 tablespoons soy sauce\n
+   1 tablespoon cooking oil (such as vegetable oil or sesame oil)\n
+   Optional: chopped vegetables (such as bell peppers, broccoli, or carrots)\n
+   Optional: cooked rice or noodles for serving
+    </string>
+    <string name="lunch_instructions4">
+    1. Press the tofu: Place the block of tofu between paper towels or clean kitchen towels. Place a heavy object on top (like a plate with a can on it) to press out excess moisture. Let it press for about 15-30 minutes.\n
+    2. Once pressed, cut the tofu into cubes or slices, depending on your preference.\n
+    3. Heat the cooking oil in a skillet or frying pan over medium-high heat.\n
+    4. Add the tofu cubes to the hot skillet in a single layer. Let them cook without stirring for a few minutes until the bottoms are golden brown.\n
+    5. Flip the tofu cubes to brown the other sides. Cook for a few more minutes until all sides are golden brown and crispy.\n
+    6. If using vegetables, add them to the skillet with the tofu. Stir-fry for a few minutes until the vegetables are tender-crisp.\n
+    7. Drizzle the soy sauce over the tofu and vegetables in the skillet. Toss everything together gently to coat evenly.\n
+    8. Once the tofu and vegetables are coated with soy sauce and heated through, remove the skillet from the heat.\n
+    9. Serve the tofu stir-fry hot, either on its own or over cooked rice or noodles if desired.
+    </string>
+    <string name="dinner_ingredients1">
+   1 packet of Knorr Crab and Corn Soup mix\n
+   4 cups of water\n
+   1 cup of canned crab meat (or imitation crab meat)\n
+   1 cup of canned corn kernels, drained\n
+   1 egg, beaten\n
+   Optional: chopped green onions for garnish
+    </string>
+
+    <string name="dinner_instructions1">1. In a pot, bring 4 cups of water to a boil over medium-high heat.\n
+    1. Once the water is boiling, add the packet of Knorr Crab and Corn Soup mix to the pot. Stir well to dissolve the mix into the water.\n
+    2. Add the canned crab meat and corn kernels to the pot. Stir to combine.\n
+    3. Let the soup simmer for about 5 minutes, stirring occasionally.\n
+    4. Slowly pour the beaten egg into the soup while stirring continuously. This will create egg ribbons in the soup.\n
+    5. Continue to simmer the soup for another 2-3 minutes until the egg is cooked through.\n
+    6. Taste the soup and adjust the seasoning if necessary.\n
+    7. Serve hot, garnished with chopped green onions if desired.
+    </string>
+
+    <string name="dinner_ingredients2">
+   2 cans of sardines in tomato sauce\n
+   2 cloves garlic, minced\n
+   1 onion, chopped\n
+   2 tomatoes, choppe\n
+   1 tablespoon cooking oil\n
+   Salt and pepper to taste
+    </string>
+
+    <string name="dinner_instructions2">
+    1. Heat cooking oil in a pan over medium heat.\n
+    2. Sauté minced garlic until fragrant and lightly golden.\n
+    3. Add chopped onions and cook until translucent.\n
+    4. Add chopped tomatoes and cook until they start to soften.\n
+    5. Pour in the contents of the canned sardines, including the tomato sauce.\n
+    6. Stir well, breaking up the sardines with a spoon.\n
+    7. Add salt and pepper to taste. If you like it spicy, add chopped chili peppers at this point.\n
+    8. Let the mixture simmer for about 5-7 minutes, allowing the flavors to meld together.\n
+    9. Taste and adjust seasoning if needed.\n
+    10. Serve hot with steamed rice.
+    </string>
+
+    <string name="dinner_ingredients3">
+    1/2 head of cabbage, thinly sliced\n
+    1 small carrot, julienned (optional)\n
+    1 small onion, sliced\n
+    2 cloves garlic, minced\n
+    2 tablespoons cooking oil\n
+    2 tablespoons soy sauce\n
+    Salt and pepper to taste\n
+    Cooked rice, for serving
+    </string>
+
+    <string name="dinner_instructions3">
+    1. Heat the cooking oil in a pan over medium heat.\n
+    2. Sauté the minced garlic and sliced onion until fragrant and translucent.\n
+    3. Add the julienned carrot (if using) and cook for about 2 minutes until slightly softened.\n
+    4. Add the thinly sliced cabbage to the pan. Stir well to combine with the other ingredients.\n
+    5. Cook, stirring occasionally, until the cabbage is wilted and tender, about 5-7 minutes.\n
+    6. Pour in the soy sauce and continue to cook for another 2-3 minutes, stirring occasionally.\n
+    7. Season with salt and pepper to taste.\n
+    8. Once the cabbage is cooked to your liking, remove the pan from the heat.
+    </string>
+
+    <string name="dinner_ingredients4">
+    8 oz pasta (spaghetti, penne, or your choice)\n
+    1 can (5 oz) tuna in water, drained\n
+    2-3 tablespoons olive oil\n
+    Salt and black pepper to taste\n
+    Optional: Crushed red pepper flakes for heat\n
+    Optional garnish: Fresh chopped parsley or grated Parmesan cheese
+    </string>
+
+    <string name="dinner_instructions4">
+    1. Cook the pasta according to the package instructions in a large pot of salted boiling water until al dente. Drain and set aside, reserving a little pasta water.\n
+    2. In a large skillet, heat the olive oil over medium heat.\n
+    3. Add the drained tuna to the skillet and break it apart gently with a fork.\n
+    4. Season the tuna with salt and black pepper to taste. If you like a bit of heat, add some crushed red pepper flakes.\n
+    5. Add the cooked pasta to the skillet with the seasoned tuna. Toss everything together gently to coat the pasta evenly with the tuna and olive oil.\n
+    6. If the pasta seems dry, add a splash of reserved pasta water to help loosen it up.\n
+    7. Once the pasta is heated through, remove the skillet from the heat.\n
+    8. Serve the tuna pasta hot, optionally garnished with fresh chopped parsley or grated Parmesan cheese.
+    </string>
+    <string name="budgetbytes_txt">Budget Bytes</string>
+
+</resources>
